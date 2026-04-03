@@ -1,8 +1,8 @@
-# Age Calculator using Python & Tkinter
+# Age Calculator Application (Python Tkinter)
 
-## 📌 Project Description
+## 📌 Description
 
-This is a GUI-based Age Calculator application developed using Python and Tkinter. It calculates the exact age in years, months, and days based on the user's input.
+A desktop-based Age Calculator application developed using Python and Tkinter. It calculates the exact age in years, months, and days based on the user's input date.
 
 ## 🚀 Features
 
@@ -10,7 +10,7 @@ This is a GUI-based Age Calculator application developed using Python and Tkinte
 * Accurate age calculation
 * Input validation and error handling
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 * Python
 * Tkinter
@@ -18,12 +18,9 @@ This is a GUI-based Age Calculator application developed using Python and Tkinte
 ## ▶️ How to Run
 
 1. Install Python (3.x)
-2. Run the file:
-
-   ```bash
+2. Run the program:
    python main.py
-   ```
 
 ## 📷 Output
 
-Displays age in years, months, and days.
+Displays the calculated age in years, months, and days through a GUI interface.
